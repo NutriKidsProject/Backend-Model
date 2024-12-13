@@ -49,9 +49,9 @@ This endpoint accepts a JSON payload with the following parameters:
 * `bb` (weight in kg)
 * `usia` (age in years)
 * `jenis_kelamin` (gender - "Laki-laki" or "Perempuan")
-
-Example Input :
 ```
+Example Input :
+
 {
   "tb": 110,
   "bb": 15,
