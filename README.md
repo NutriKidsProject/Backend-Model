@@ -51,6 +51,7 @@ This endpoint accepts a JSON payload with the following parameters:
 * `jenis_kelamin` (gender - "Laki-laki" or "Perempuan")
 
 Example Input :
+```
 {
   "tb": 110,
   "bb": 15,
@@ -92,6 +93,6 @@ Response :
         }
     ]
 }
-
+```
 
 It returns a JSON response with the predicted nutritional status, food recommendations, and other relevant information.
